@@ -1,0 +1,12 @@
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.exe
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.deps.json
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.json
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.runtimeconfig.dev.json
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.dll
+F:\Dev\Transport\Transport\bin\Debug\netcoreapp3.1\Transport.pdb
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfoInputs.cache
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.AssemblyInfo.cs
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.csproj.CoreCompileInputs.cache
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.dll
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.pdb
+F:\Dev\Transport\Transport\obj\Debug\netcoreapp3.1\Transport.genruntimeconfig.cache
